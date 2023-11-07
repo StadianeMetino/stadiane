@@ -2,7 +2,9 @@
 //
 
 #include <iostream>
-
+void salutation() {
+    std::cout << "Bonsoir\n";
+}
 int main()
 {
     std::cout << "Hello World!\n";
